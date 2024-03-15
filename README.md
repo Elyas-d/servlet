@@ -1,1 +1,1 @@
-this project are migrated from my laptop, it's my first github project.
+It's my first github project, and it's a dynamic web project using Java servlet API
